@@ -8,13 +8,13 @@ address socializing/networking issues, etc.
 
 ### Lesson 1 of the day
 
-    [ 60m lecture                           ]  [ 30m lab          ]
-    [ 30m snack & talk ]
+    [ 60m lecture                           ]  
+    [ 30m lab          ] [ 30m snack & talk ]
 
 ### Lesson 2
 
-    [ 60m lecture                           ]  [ 30m lab          ]
-    [ 30m snack & talk ]
+    [ 60m lecture                           ]  
+    [ 30m lab          ] [ 30m snack & talk ]
 
 # Example Curriculum
 
