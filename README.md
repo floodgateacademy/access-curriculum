@@ -26,3 +26,22 @@ address socializing/networking issues, etc.
 * Week 6: Scaling storage with EBS, LVM, S3
 * Week 7: Scaling compute with ELB, haproxy
 * Week 8: Automate as much as possible
+
+## Week 1: Compute node overview
+
+### Day 1.1: 
+
+  * Explore OS X on their workstations
+  * Explore iOS/Android on their phones, tablets, media centers
+
+### Day 1.2: 
+
+  * Explore Ubuntu in VirtualBox vagrants with a web server
+
+### Day 2.3: 
+
+  * Explore networking with OS X workstations and Ubuntu web servers
+
+### Day 2.4: 
+
+  * Set up more Ubuntu web servers on partner's workstations
