@@ -6,6 +6,18 @@ scenarios to reinforce learning.  We’d also have a 30 mins or so Snack and Tal
 session between the lessons that we can use to bring in folks to talk, or
 address socializing/networking issues, etc. 
 
+### Lesson 1 of the day
+
+    [ 60m lecture                           ]  [ 30m lab          ]
+    [ 30m snack & talk ]
+
+### Lesson 2
+
+    [ 60m lecture                           ]  [ 30m lab          ]
+    [ 30m snack & talk ]
+
+# Example Curriculum
+
 * Week 1: Compute node overview using local host, vagrant, and mobile devices
 * Week 2: Compute environments using Amazon Web Services
 * Week 3: Storing data using databases and file services
