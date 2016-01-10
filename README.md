@@ -18,6 +18,13 @@ address socializing/networking issues, etc.
 
 # Example Curriculum
 
+A typical devops project is setting up and deploying applications onto
+workstation, development, and production environments, while scaling
+storage/compute with automation as much as possible. 
+
+In this example curriculum, we use a web server to show the outline of
+that typical devops project.
+
 * Week 1: Compute node overview using local host, vagrant, and mobile devices
 * Week 2: Compute environments using Amazon Web Services
 * Week 3: Storing data using databases and file services
