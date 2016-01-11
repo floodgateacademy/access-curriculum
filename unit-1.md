@@ -12,7 +12,7 @@ and folders.
 Day 1 touches on setting up a local web server, leading to Day 2 of
 networking servers together.
 
-### Day 1.1: 
+### Day 1.1:
 
 Establish basic concepts of what is a server, and how they are already
 using advanced computers on their phones, tablets, and media centers.
@@ -20,23 +20,41 @@ using advanced computers on their phones, tablets, and media centers.
   * Explore OS X on their workstations
   * Explore iOS/Android on their phones, tablets, media centers
 
-### Day 1.2: 
+#### Planned Activities
+
+#### Materials Needed
+
+
+
+### Day 1.2:
 
 Extend basic server concepts from OS X/iOS/Android to Ubuntu using a
 local virtual machine.  Able to serve images using local storage.
 
   * Explore Ubuntu in VirtualBox vagrants with a web server
 
-### Day 2.3: 
+#### Planned Activities
+
+#### Materials Needed
+
+### Day 2.3:
 
 Extend local web server to networked servers.  Students can visit not
 only their local web servers, they visit each other's web servers.
 
   * Explore networking with OS X workstations and Ubuntu web servers
 
-### Day 2.4: 
+#### Planned Activities
+
+#### Materials Needed
+
+### Day 2.4:
 
 Do remote work on partner workstations.  Show there's not much
 difference between remote work in a vagrant and in a remote workstation.
 
   * Set up more Ubuntu web servers on partner's workstations
+
+#### Planned Activities
+
+#### Materials Needed
