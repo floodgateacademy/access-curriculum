@@ -26,10 +26,10 @@ In this example curriculum, we use a web server to show the outline of
 that typical devops project.
 
 * [Unit 1](unit-1.md): Compute server overview using local host, vagrant, and mobile devices
-* Unit 2: Compute environments using Amazon Web Services
-* Unit 3: Storing data using databases and file services
-* Unit 4: Setting up an application
-* Unit 5: Deploying applications
-* Unit 6: Scaling storage with EBS, LVM, S3
-* Unit 7: Scaling compute with ELB, haproxy
-* Unit 8: Automate as much as possible
+* [Unit 2](unit-2.md): Compute environments using Amazon Web Services
+* [Unit 3](unit-3.md): Storing data using databases and file services
+* [Unit 4](unit-4.md): Setting up an application
+* [Unit 5](unit-5.md): Deploying applications
+* [Unit 6](unit-6.md): Scaling storage with EBS, LVM, S3
+* [Unit 7](unit-7.md): Scaling compute with ELB, haproxy
+* [Unit 8](unit-8.md): Automate as much as possible
