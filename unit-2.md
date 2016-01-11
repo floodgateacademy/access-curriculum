@@ -7,8 +7,8 @@ the environment.
 
 Day 1 touches on setting up their aws accounts and credentials,
 leveraging their local work on the cloud.  Day 2 continues by examining
-additional features and constraints of the cloud by examining the public
-and cost aspect of the cloud.
+additional features and constraints of the cloud by examining the
+public, cost, and utility aspects of the cloud.
 
 ### Day 1.1: 
 
